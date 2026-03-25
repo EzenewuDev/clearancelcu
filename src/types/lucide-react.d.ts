@@ -18,12 +18,10 @@ declare module 'lucide-react' {
   export const Check: Icon;
   export const CheckCircle: Icon;
   export const ChevronDown: Icon;
-  export const ChevronDownIcon: Icon;
   export const ChevronLeft: Icon;
   export const ChevronRight: Icon;
   export const ChevronUp: Icon;
   export const Circle: Icon;
-  export const CircleCheck: Icon;
   export const Clock: Icon;
   export const CreditCard: Icon;
   export const ExternalLink: Icon;
@@ -40,12 +38,11 @@ declare module 'lucide-react' {
   export const Minus: Icon;
   export const Moon: Icon;
   export const MoreHorizontal: Icon;
-  export const OctagonXIcon: Icon;
+  export const OctagonX: Icon;
   export const PanelLeft: Icon;
   export const Phone: Icon;
   export const Quote: Icon;
   export const Search: Icon;
-  export const SearchIcon: Icon;
   export const Shield: Icon;
   export const Smartphone: Icon;
   export const Sparkles: Icon;
@@ -53,7 +50,6 @@ declare module 'lucide-react' {
   export const Sun: Icon;
   export const Target: Icon;
   export const TrendingUp: Icon;
-  export const TriangleAlert: Icon;
   export const User: Icon;
   export const Users: Icon;
   export const Wallet: Icon;

@@ -2,7 +2,7 @@ import {
   CheckCircle as CircleCheckIcon,
   Info as InfoIcon,
   Loader2 as Loader2Icon,
-  OctagonXIcon,
+  OctagonX as OctagonXIcon,
   AlertTriangle as TriangleAlertIcon,
 } from "lucide-react"
 import { useTheme } from "next-themes"
