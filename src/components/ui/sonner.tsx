@@ -1,9 +1,9 @@
 import {
-  CircleCheckIcon,
-  InfoIcon,
-  Loader2Icon,
+  CheckCircle as CircleCheckIcon,
+  Info as InfoIcon,
+  Loader2 as Loader2Icon,
   OctagonXIcon,
-  TriangleAlertIcon,
+  AlertTriangle as TriangleAlertIcon,
 } from "lucide-react"
 import { useTheme } from "next-themes"
 import { Toaster as Sonner, type ToasterProps } from "sonner"
